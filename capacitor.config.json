@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Kronex Town Market",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

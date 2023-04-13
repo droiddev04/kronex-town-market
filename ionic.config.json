@@ -1,0 +1,8 @@
+{
+  "name": "Kronex Town Market",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "1b7efdd0"
+}
